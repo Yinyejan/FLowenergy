@@ -1,4 +1,4 @@
-# ⚡ FLOWNERGY — Monitor de Energía Industrial IoT
+#  FLOWNERGY — Monitor de Energía Industrial IoT
 
 Sistema de monitoreo eléctrico con **ESP32 + PZEM-004T** para micro y medianas empresas.
 Detecta picos, bajos de consumo y genera alertas de mantenimiento preventivo.
@@ -41,7 +41,7 @@ flownergy/                          ← Carpeta raíz (va en htdocs/)
 
 ---
 
-## 🚀 Instalación paso a paso
+##  Instalación paso a paso
 
 ### 1. Base de datos
 1. Abre XAMPP → inicia **Apache** y **MySQL**
@@ -79,7 +79,7 @@ Windows → Configuración → Bluetooth → Agregar dispositivo → Bluetooth
 
 ---
 
-## 🔌 Conexiones físicas del ESP32
+##  Conexiones físicas del ESP32
 
 | Componente   | Pin ESP32 | Pin Componente |
 |---|---|---|
@@ -92,7 +92,7 @@ Windows → Configuración → Bluetooth → Agregar dispositivo → Bluetooth
 
 ---
 
-## 📊 Datos del PZEM-004T utilizados
+##  Datos del PZEM-004T utilizados
 
 | Campo | Unidad | Uso en Flownergy |
 |---|---|---|
@@ -105,7 +105,7 @@ Windows → Configuración → Bluetooth → Agregar dispositivo → Bluetooth
 
 ---
 
-## 🔔 Lógica de alertas
+##  Lógica de alertas
 
 | Alerta | Condición |
 |---|---|
@@ -119,15 +119,15 @@ Windows → Configuración → Bluetooth → Agregar dispositivo → Bluetooth
 
 ---
 
-## 👥 Contacto
+##  Contacto
 
-- 📱 WhatsApp: **+57 322 520 0707**
-- ✉️ Email: **alejandrodiazramirez2020@gmail.com**
-- 📍 Yumbo, Valle del Cauca, Colombia
+-  WhatsApp: **+57 322 520 0707**
+-  Email: **alejandrodiazramirez2020@gmail.com**
+-  Yumbo, Valle del Cauca, Colombia
 
 ---
 
-## ⚠️ Notas importantes
+##  Notas importantes
 
 - La **Web Serial API** (Bluetooth desde el navegador) solo funciona en **Chrome y Edge**
 - Para flashear el ESP32 usa el puerto **USB (COM3)**, no el Bluetooth
